@@ -2,7 +2,7 @@ import os
 
 os.system("clear")
 
-print("Bienvenido a la app para determinar tu IMC\n")
+print("Bienvenido a la app para determinar su IMC\n")
 
 peso=float(input("Ingrese su peso: "))
 altura=float(input("Ingrese su altura: "))
